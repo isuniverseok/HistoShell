@@ -57,3 +57,16 @@ curl -X POST http://localhost:8080/api/v1/commands \
   ```bash
   curl http://localhost:8080/api/v1/commands
   ```
+
+
+
+
+## Steps to Use 
+- Ensure you have all prereqs installed like Java , Gardle (better to use IntelliJ) , Docker , Docker Compose
+- Next Clone the Repository , Navigate to the Project Directory
+- Open Docker in background and run the docker-compose command
+  ```bash
+  docker-compose up --build
+  ```
+- You should see an image 'safedep-swe' up and running in docker.  
+- Test the API endpoints in the terminal using the given sample cURLs
