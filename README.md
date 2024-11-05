@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Memory in the Shell
 
 We love the `shell`. [bash](#) or [zsh](#) or [fish](#) or [powershell](#) or name
@@ -54,4 +53,4 @@ The reviewer should be able to run your application using
 ## Questions?
 
 Create an [issue](https://github.com/safedep-hiring/swe-intern-problem-1/issues)
->>>>>>> imported-from-fork
+
